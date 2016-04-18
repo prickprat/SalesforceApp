@@ -1,0 +1,15 @@
+{
+  "name": "oauthtest",
+  "version": "1.0.0",
+  "description": "18/4/16 10:00pm 11:00pm - learning about OAuth Protocol",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.4",
+    "jsforce": "^1.6.0"
+  }
+}
